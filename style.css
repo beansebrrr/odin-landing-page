@@ -46,13 +46,14 @@ nav {
 .nav-logo {
   font-size: 24px;
   font-weight: 700;
+  fill: var(--primary-light);
   color: var(--primary-light);
 }
 
 .nav-items {
   list-style: none;
   display: flex;
-  gap: 16px;
+  gap: 24px;
 }
 
 .nav-items a {
